@@ -1,1 +1,1 @@
-Blog with comments , posts and 
+Blog with author, posts, comments and votes built with spring.
